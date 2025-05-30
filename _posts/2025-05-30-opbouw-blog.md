@@ -29,28 +29,27 @@ Het toevoegen van een blogpost is verrassend eenvoudig:
 
   Voeg bovenaan het bestand een Front Matter toe (metadata), bijvoorbeeld:
 
-"---
 title: "Mijn Ervaring op Tech&Meet"
 date: 2024-12-17
----"
 
-    Schrijf je inhoud in Markdown (met ondersteuning voor afbeeldingen, codeblokken, tabellen, enz.).
 
-    Commit het bestand – GitHub Pages bouwt automatisch de site opnieuw.
+  Schrijf je inhoud in Markdown (met ondersteuning voor afbeeldingen, codeblokken, tabellen, enz.).
+
+  Commit het bestand – GitHub Pages bouwt automatisch de site opnieuw.
 
 ⚙️ Maatwerk & Aanpassingen
 
 Het thema is heel makkelijk aanpasbaar via config.yml. Daarin kon ik snel dingen instellen zoals:
 
-    De titel van de site
+  De titel van de site
 
-    De taal (NL)
+  De taal (NL)
 
-    Sociale mediaprofielen
+  Sociale mediaprofielen
 
-    Thema-modus (licht/donker)
+  Thema-modus (licht/donker)
 
-    Analytics en commentaarmogelijkheden
+  Analytics en commentaarmogelijkheden
 
 Je hebt geen diepgaande kennis van HTML of CSS nodig om met dit thema te werken – al kun je het uiteraard verder personaliseren als je dat wil.
 💡 Waarom dit handig is
