@@ -8,31 +8,31 @@ date: 30/05/2025
 Voor het bouwen van deze blog koos ik voor het Chirpy Starter Theme, een modern en minimalistisch Jekyll-thema dat perfect werkt met GitHub Pages. Het grote voordeel van deze opstelling is dat je geen eigen server nodig hebt – alles draait rechtstreeks via GitHub.
 🌐 Gebruikte technologie
 
-    Jekyll: een statische site generator geschreven in Ruby. Het zet Markdown-bestanden om naar HTML.
+  Jekyll: een statische site generator geschreven in Ruby. Het zet Markdown-bestanden om naar HTML.
 
-    GitHub Pages: gratis hosting rechtstreeks vanuit een GitHub-repository.
+  GitHub Pages: gratis hosting rechtstreeks vanuit een GitHub-repository.
 
-    Chirpy Theme: een thema dat out-of-the-box werkt met GitHub Pages, voorzien van features zoals dark mode, tags, categorieën, PWA-ondersteuning en meer.
+  Chirpy Theme: een thema dat out-of-the-box werkt met GitHub Pages, voorzien van features zoals dark mode, tags, categorieën, PWA-ondersteuning en meer.
 
-    Markdown: alle blogposts worden geschreven in eenvoudige .md-bestanden, wat het toevoegen van content heel laagdrempelig maakt.
+  Markdown: alle blogposts worden geschreven in eenvoudige .md-bestanden, wat het toevoegen van content heel laagdrempelig maakt.
 
-    config.yml: de site wordt grotendeels aangestuurd via deze configuratiefile, waarin je zaken instelt zoals titel, auteur, thema-instellingen, social media-links en meer.
+  config.yml: de site wordt grotendeels aangestuurd via deze configuratiefile, waarin je zaken instelt zoals titel, auteur, thema-instellingen, social media-links en meer.
 
 ✍️ Hoe voeg je een nieuwe post toe?
 
 Het toevoegen van een blogpost is verrassend eenvoudig:
 
-    Navigeer in je repository naar de map _posts.
+  Navigeer in je repository naar de map _posts.
 
-    Maak een nieuw bestand aan met de juiste naamstructuur:
-    YYYY-MM-DD-titel-van-de-post.md
+  Maak een nieuw bestand aan met de juiste naamstructuur:
+  YYYY-MM-DD-titel-van-de-post.md
 
-    Voeg bovenaan het bestand een Front Matter toe (metadata), bijvoorbeeld:
+  Voeg bovenaan het bestand een Front Matter toe (metadata), bijvoorbeeld:
 
----
+"---
 title: "Mijn Ervaring op Tech&Meet"
 date: 2024-12-17
----
+---"
 
     Schrijf je inhoud in Markdown (met ondersteuning voor afbeeldingen, codeblokken, tabellen, enz.).
 
