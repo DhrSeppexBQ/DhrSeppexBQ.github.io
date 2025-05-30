@@ -3,10 +3,10 @@ title: Hoe is de website tot stand gekomen?
 date: 30/05/2025
 ---
 
-# 🛠️ Hoe deze website tot stand kwam
+# Hoe deze website tot stand kwam
 
 Voor het bouwen van deze blog koos ik voor het [Chirpy Starter Theme](https://github.com/cotes2020/chirpy-starter), een modern en minimalistisch Jekyll-thema dat perfect werkt met GitHub Pages. Het grote voordeel van deze opstelling is dat je geen eigen server nodig hebt – alles draait rechtstreeks via GitHub.
-## 🌐 Gebruikte technologie
+## Gebruikte technologie
 
   Jekyll: een statische site generator geschreven in Ruby. Het zet Markdown-bestanden om naar HTML.
 
@@ -18,7 +18,7 @@ Voor het bouwen van deze blog koos ik voor het [Chirpy Starter Theme](https://gi
 
   config.yml: de site wordt grotendeels aangestuurd via deze configuratiefile, waarin je zaken instelt zoals titel, auteur, thema-instellingen, social media-links en meer.
 
-## ✍️ Hoe voeg je een nieuwe post toe?
+## Hoe voeg je een nieuwe post toe?
 
 Het toevoegen van een blogpost is verrassend eenvoudig:
 
@@ -37,7 +37,7 @@ Het toevoegen van een blogpost is verrassend eenvoudig:
 
   Commit het bestand – GitHub Pages bouwt automatisch de site opnieuw.
 
-## ⚙️ Maatwerk & Aanpassingen
+## Maatwerk & Aanpassingen
 
 Het thema is heel makkelijk aanpasbaar via config.yml. Daarin kon ik snel dingen instellen zoals:
 
@@ -53,6 +53,6 @@ Het thema is heel makkelijk aanpasbaar via config.yml. Daarin kon ik snel dingen
 
 Je hebt geen diepgaande kennis van HTML of CSS nodig om met dit thema te werken – al kun je het uiteraard verder personaliseren als je dat wil.
 
-## 💡 Waarom dit handig is
+## Waarom dit handig is
 
 Door deze opzet kan ik mijn blog eenvoudig bijhouden. Nieuwe content toevoegen is niet meer dan een .md-bestand schrijven en committen. Geen gedoe met CMS’en, databases of hostingproblemen.
