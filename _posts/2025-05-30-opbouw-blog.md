@@ -5,7 +5,7 @@ date: 30/05/2025
 
 # 🛠️ Hoe deze website tot stand kwam
 
-Voor het bouwen van deze blog koos ik voor het Chirpy Starter Theme, een modern en minimalistisch Jekyll-thema dat perfect werkt met GitHub Pages. Het grote voordeel van deze opstelling is dat je geen eigen server nodig hebt – alles draait rechtstreeks via GitHub.
+Voor het bouwen van deze blog koos ik voor het [Chirpy Starter Theme](https://github.com/cotes2020/chirpy-starter), een modern en minimalistisch Jekyll-thema dat perfect werkt met GitHub Pages. Het grote voordeel van deze opstelling is dat je geen eigen server nodig hebt – alles draait rechtstreeks via GitHub.
 ## 🌐 Gebruikte technologie
 
   Jekyll: een statische site generator geschreven in Ruby. Het zet Markdown-bestanden om naar HTML.
